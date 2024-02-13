@@ -1,7 +1,4 @@
-<h1 align="center">Hola 👋, soy Alejandro</h1><h3 align="center">
-Me llamo Alejandro y soy un estudiante de Ingeniería Informática de 21 años. ¡Estoy emocionado de unirme a esta comunidad y aprender más sobre el desarrollo de software, la colaboración en proyectos y las tecnologías emergentes! Mi interés particular radica en la robótica, donde exploro nuevas formas de integrar software y hardware para crear soluciones innovadoras. Además, tengo experiencia en brindar soporte informático, lo que me permite ayudar a otros a resolver problemas técnicos y aprovechar al máximo su tecnología. Me considero un entusiasta de Arduino y disfruto explorando nuevas posibilidades en el mundo de la electrónica y la programación. ¡No dudes en ponerte en contacto conmigo si necesitas ayuda informática, quieres discutir ideas, colaborar en proyectos o simplemente charlar sobre tecnología!</h3>- Correo electrónico de contacto: **alejandrodazacodes@gmail.com**<
 
-h3 align="left">Conéctate conmigo:</h3><p align="left"></p><h3 align="left">
 
 
 
