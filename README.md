@@ -1,43 +1,4 @@
-<div id="Hello everyone!
-My name is Alejandro, and I am a 21-year-old student of Computer Engineering.
-
-About Me:
-Name: Alejandro
-Age: 21 years old
-Area of study: Computer Engineering
-Interests: Software Development, Artificial Intelligence, Embedded Systems, Arduino Programming, Robotics
-Experience: Full Stack Developer with skills in database design and management, basic application development, and computer support.
-I'm excited to join this community and learn more about software development, project collaboration, and emerging technologies! My particular interest lies in robotics, where I explore new ways to integrate software and hardware to create innovative solutions.
-
-Additionally, I have experience in providing computer support, enabling me to assist others in resolving technical issues and making the most of their technology.
-
-I consider myself an Arduino enthusiast and enjoy exploring new possibilities in the world of electronics and programming.
-
-Feel free to reach out to me if you need computer support, want to discuss ideas, collaborate on projects, or simply chat about technology!"></div>
-
-<style>
-#typed-text {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 14px;
-    color: #FFFFFF;
-    background-color: #000000;
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid #FFFFFF;
-    width: 500px;
-    white-space: pre-wrap;
-    overflow: hidden;
-    line-height: 1.5;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    animation: typing 3s steps(40) forwards;
-}
-
-@keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-}
-  
-</style>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadero&random=falso&width=435&lines=My+Name+is+Alejandro;I+am+a+21+year+old%2Cstudent+of+computer+engineering.;Interests%3AInterests%3A+Software+Development%2C+Artificial+Intelligence%2C+Embedded+Systems%2C+Arduino+Programming%2C+Robotics;Experience%3A+Full+Stack+Developer+with+skills+in+database+design+and+management%2C+basic+application+development%2C+and+computer+support." alt="Typing SVG" /></a>
 
 
 
