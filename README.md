@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+everyone!!!" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Alejandro%2C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Alejandro" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Area+of+study%3A+Computer+Engineering" alt="Typing SVG" /></a>
 
 Idiomas y herramientas: 📫 </h3>
