@@ -23,7 +23,7 @@ Ingeniero en Informática titulado en Universidad Tecnológica de Chile INACAP (
 
 Combino desarrollo de software con análisis de datos y machine learning aplicado, y me interesa particularmente la intersección entre arquitectura de software escalable y gobernanza/seguridad de TI.
 
-Actualmente construyendo y operando **Dazalia**, una plataforma propia de e-commerce con más de 50 microservicios en producción.
+Actualmente construyendo y operando **Dazalia**, una plataforma propia de e-commerce con más de 70 microservicios, arquitectura event-driven y base de datos por servicio.
 
 <br/>
 
@@ -32,6 +32,7 @@ Actualmente construyendo y operando **Dazalia**, una plataforma propia de e-comm
 <table width="100%">
 <tr><td width="160" valign="top"><b>Lenguajes</b></td><td>
 
+![TypeScript](https://img.shields.io/badge/TypeScript-02264C?style=flat-square&logo=typescript&logoColor=E2D9CB)
 ![Python](https://img.shields.io/badge/Python-02264C?style=flat-square&logo=python&logoColor=E2D9CB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02264C?style=flat-square&logo=javascript&logoColor=E2D9CB)
 ![Java](https://img.shields.io/badge/Java-02264C?style=flat-square&logo=openjdk&logoColor=E2D9CB)
@@ -43,43 +44,79 @@ Actualmente construyendo y operando **Dazalia**, una plataforma propia de e-comm
 </td></tr>
 <tr><td valign="top"><b>Backend</b></td><td>
 
-![Django](https://img.shields.io/badge/Django-517493?style=flat-square&logo=django&logoColor=E2D9CB)
 ![Node.js](https://img.shields.io/badge/Node.js-517493?style=flat-square&logo=nodedotjs&logoColor=E2D9CB)
+![Fastify](https://img.shields.io/badge/Fastify-517493?style=flat-square&logo=fastify&logoColor=E2D9CB)
+![Django](https://img.shields.io/badge/Django-517493?style=flat-square&logo=django&logoColor=E2D9CB)
 ![Express](https://img.shields.io/badge/Express.js-517493?style=flat-square&logo=express&logoColor=E2D9CB)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-517493?style=flat-square&logo=fastapi&logoColor=E2D9CB)
+![Zod](https://img.shields.io/badge/Zod-517493?style=flat-square&logoColor=E2D9CB)
 ![JWT](https://img.shields.io/badge/JWT-517493?style=flat-square&logo=jsonwebtokens&logoColor=E2D9CB)
+![Auth0](https://img.shields.io/badge/Auth0-517493?style=flat-square&logo=auth0&logoColor=E2D9CB)
 
 </td></tr>
 <tr><td valign="top"><b>Frontend</b></td><td>
 
+![Next.js](https://img.shields.io/badge/Next.js-6B0D1D?style=flat-square&logo=nextdotjs&logoColor=E2D9CB)
 ![React](https://img.shields.io/badge/React-6B0D1D?style=flat-square&logo=react&logoColor=E2D9CB)
-![JavaScript ES6+](https://img.shields.io/badge/ES6+-6B0D1D?style=flat-square&logo=javascript&logoColor=E2D9CB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-6B0D1D?style=flat-square&logo=tailwindcss&logoColor=E2D9CB)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-6B0D1D?style=flat-square&logo=css3&logoColor=E2D9CB)
 
 </td></tr>
 <tr><td valign="top"><b>Bases de datos</b></td><td>
 
-![MySQL](https://img.shields.io/badge/MySQL-02264C?style=flat-square&logo=mysql&logoColor=E2D9CB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-02264C?style=flat-square&logo=postgresql&logoColor=E2D9CB)
+![Redis](https://img.shields.io/badge/Redis%2FValkey-02264C?style=flat-square&logo=redis&logoColor=E2D9CB)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-02264C?style=flat-square&logo=opensearch&logoColor=E2D9CB)
+![MySQL](https://img.shields.io/badge/MySQL-02264C?style=flat-square&logo=mysql&logoColor=E2D9CB)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-02264C?style=flat-square&logo=oracle&logoColor=E2D9CB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-02264C?style=flat-square&logo=mongodb&logoColor=E2D9CB)
 ![MariaDB](https://img.shields.io/badge/MariaDB-02264C?style=flat-square&logo=mariadb&logoColor=E2D9CB)
 ![SQLite](https://img.shields.io/badge/SQLite-02264C?style=flat-square&logo=sqlite&logoColor=E2D9CB)
 
 </td></tr>
+<tr><td valign="top"><b>Eventos & Streaming</b></td><td>
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-517493?style=flat-square&logo=apachekafka&logoColor=E2D9CB)
+![Debezium](https://img.shields.io/badge/Debezium_CDC-517493?style=flat-square&logoColor=E2D9CB)
+![Temporal](https://img.shields.io/badge/Temporal-517493?style=flat-square&logo=temporal&logoColor=E2D9CB)
+
+</td></tr>
+<tr><td valign="top"><b>Arquitectura</b></td><td>
+
+![Microservicios](https://img.shields.io/badge/Microservicios-6B0D1D?style=flat-square&logoColor=E2D9CB)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-6B0D1D?style=flat-square&logoColor=E2D9CB)
+![DB per Service](https://img.shields.io/badge/DB_per_Service-6B0D1D?style=flat-square&logoColor=E2D9CB)
+![BFF Pattern](https://img.shields.io/badge/BFF_Pattern-6B0D1D?style=flat-square&logoColor=E2D9CB)
+![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-6B0D1D?style=flat-square&logoColor=E2D9CB)
+
+</td></tr>
 <tr><td valign="top"><b>Data Science & ML</b></td><td>
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-517493?style=flat-square&logo=scikitlearn&logoColor=E2D9CB)
-![Pandas](https://img.shields.io/badge/Pandas-517493?style=flat-square&logo=pandas&logoColor=E2D9CB)
-![Jupyter](https://img.shields.io/badge/Jupyter-517493?style=flat-square&logo=jupyter&logoColor=E2D9CB)
-![NumPy](https://img.shields.io/badge/EDA-517493?style=flat-square&logo=numpy&logoColor=E2D9CB)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-02264C?style=flat-square&logo=scikitlearn&logoColor=E2D9CB)
+![Pandas](https://img.shields.io/badge/Pandas-02264C?style=flat-square&logo=pandas&logoColor=E2D9CB)
+![Jupyter](https://img.shields.io/badge/Jupyter-02264C?style=flat-square&logo=jupyter&logoColor=E2D9CB)
+![NumPy](https://img.shields.io/badge/EDA-02264C?style=flat-square&logo=numpy&logoColor=E2D9CB)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_API-02264C?style=flat-square&logoColor=E2D9CB)
+
+</td></tr>
+<tr><td valign="top"><b>Observabilidad</b></td><td>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-517493?style=flat-square&logo=prometheus&logoColor=E2D9CB)
+![Grafana](https://img.shields.io/badge/Grafana-517493?style=flat-square&logo=grafana&logoColor=E2D9CB)
+![Loki](https://img.shields.io/badge/Loki-517493?style=flat-square&logo=grafana&logoColor=E2D9CB)
+![Jaeger](https://img.shields.io/badge/Jaeger-517493?style=flat-square&logo=jaeger&logoColor=E2D9CB)
 
 </td></tr>
 <tr><td valign="top"><b>DevOps & Infra</b></td><td>
 
 ![Git](https://img.shields.io/badge/Git-6B0D1D?style=flat-square&logo=git&logoColor=E2D9CB)
 ![Docker](https://img.shields.io/badge/Docker-6B0D1D?style=flat-square&logo=docker&logoColor=E2D9CB)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6B0D1D?style=flat-square&logo=kubernetes&logoColor=E2D9CB)
+![Traefik](https://img.shields.io/badge/Traefik-6B0D1D?style=flat-square&logo=traefikproxy&logoColor=E2D9CB)
+![Terraform](https://img.shields.io/badge/Terraform-6B0D1D?style=flat-square&logo=terraform&logoColor=E2D9CB)
 ![AWS](https://img.shields.io/badge/AWS-6B0D1D?style=flat-square&logo=amazonaws&logoColor=E2D9CB)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6B0D1D?style=flat-square&logo=githubactions&logoColor=E2D9CB)
+![Turborepo](https://img.shields.io/badge/Turborepo-6B0D1D?style=flat-square&logo=turborepo&logoColor=E2D9CB)
 ![Linux](https://img.shields.io/badge/Linux-6B0D1D?style=flat-square&logo=linux&logoColor=E2D9CB)
 
 </td></tr>
