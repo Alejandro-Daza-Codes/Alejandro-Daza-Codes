@@ -23,7 +23,7 @@ Ingeniero en Informática titulado en Universidad Tecnológica de Chile INACAP (
 
 Combino desarrollo de software con análisis de datos y machine learning aplicado, y me interesa particularmente la intersección entre arquitectura de software escalable y gobernanza/seguridad de TI.
 
-Actualmente construyendo y operando **Dazalia**, una plataforma propia de e-commerce con más de 70 microservicios, arquitectura event-driven y base de datos por servicio.
+Actualmente construyendo y operando **Dazalia**, una plataforma propia de e-commerce con más de 120 microservicios, arquitectura event-driven y base de datos por servicio.
 
 <br/>
 
